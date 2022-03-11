@@ -1,1 +1,3 @@
 fisrt commit
+hi git word 
+I am new to git
